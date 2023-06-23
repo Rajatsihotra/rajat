@@ -1,0 +1,88 @@
+/* CONTENT CSS START */
+.aboutswidth{position: relative;;max-width: 1600px;
+             left: 0px;}
+.texts1{
+    margin-left:180px;top:10px;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #a84548;
+    text-transform: capitalize;
+    letter-spacing: 0px;
+    padding-bottom: 0 !important;
+    font-family: 'Playfair Display',serif;
+    padding-top: 10px;}
+    
+    
+.texts2{
+    margin-left:180px;top:5px;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 400;
+    color: #001111;
+    padding-bottom: 20px;
+    font-family: 'Heebo',sans-serif;
+    padding-top: 10px;
+
+}
+ 
+.texts3{  
+    margin-left:180px;top:15px;
+    font-size: 17px;
+    font-family: 'Heebo',sans-serif;
+    color: #001111;
+    font-weight: 500;
+    padding-bottom: 10px;}
+
+.texts4{
+    margin-left:180px;top:15px;
+    font-size: 16px;
+    font-family: 'Heebo',sans-serif;
+    color: #001111;
+    }
+
+#texts5{position:relative ;
+       top:13px
+       }
+
+#texts6{    
+       list-style: none;
+       font-size: 16px;
+       font-family: 'Heebo',sans-serif;
+       color: #001111;
+       line-height: 1.9;
+       padding: 0 0 6px;
+       margin-left:150px;
+       margin-top: 5px;
+}       
+
+#texts7{list-style: none;
+    font-size: 16px;
+    font-family: 'Heebo',sans-serif;
+    color: #001111;
+    line-height: 1.9;
+    padding: 0 0 6px;
+    margin-left:150px;
+       margin-top: 5px;
+}
+
+#texts8{margin-left: 150px;}
+
+#texts9{margin-left: 150px;
+        margin-top: 25px;
+        list-style: none;}
+
+#texts10{float: left; text-decoration: none; margin-left: -70px;}
+
+#texts11{ text-decoration: none;     color: #86000a;
+    font-weight: 600;
+    text-transform: uppercase; }
+
+#xten{
+    margin-left: 320px; margin-top: -03px;
+    font-size: 16px;
+    font-family: 'Heebo',sans-serif;
+    color: #001111;
+    
+}

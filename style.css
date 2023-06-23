@@ -1,0 +1,793 @@
+*{margin: 0px;
+  padding: 0px;
+  }
+
+
+/* NAV BAR work */
+
+#rjaman{position: relative;
+        left: 630px;}
+
+@media(max-width:400px){
+  #rjaman{position: relative;
+        left:1px;
+        height: 80px;
+        }
+}
+
+/* @media(max-width:900px){
+  #rjaman{position: relative;
+          left:330px;
+          height: 90px;
+          top:30px}
+} */
+
+
+a{ position: relative;
+   left:190px;font-size: 15px;
+   color: #767676;
+   font-family: 'Heebo',sans-serif;
+   margin-left: 30px;
+   font-weight: 500;}
+
+@media(max-width:400px){
+    a{ position: relative;
+        left:-20px;max-width: 300px;
+      }
+}
+
+/* @media(max-width:900px){
+  #hiddennav{visibility: hidden;}
+} */
+
+/* FIRST BIG IMAGE DESKTOP */
+
+ 
+.bigimg{height:770px ;
+       width: 100%;
+      }
+
+
+@media(max-width:400px){
+  .bigimg{height:150px ;
+    max-width:100%;}
+}
+
+/* @media(max-width:900px){
+  .bigimg{height:auto ;
+    max-width:100%;}
+} */
+
+.style{position: relative;
+       }
+
+/* DESCRIPTION CONTENT STYLE*/
+
+  #style{position: absolute;
+  left: 230px;top: 350px;
+  font-size: 22px;
+  font-family: 'Heebo',sans-serif;
+  }     
+
+  @media(max-width:400px){
+    #style{font-size: 22px;
+        left:-10px;top:330px;
+      text-align: center;  }
+  }
+
+  /* @media(max-width:900px){
+    #style{font-size: 22px;
+      top:565px;padding: 20px 0 20px;
+      text-align: center;
+      font-weight: 400;
+      text-transform: none;
+      line-height: 1.5;
+      letter-spacing: 0.5px;
+      margin-bottom: 0;
+      font-family: 'Heebo',sans-serif;
+      color: #001111;
+      padding-bottom: 0;
+      }
+  } */
+
+  
+
+  #style1{position: absolute;
+    left: 230px;top: 410px;
+    font-size: 54px;
+    font-weight: 900;
+    font-family: 'Playfair Display',serif;
+    line-height: 1.2em;
+    margin: 0;
+    color: #86000A;
+    letter-spacing: 0.5px;
+    margin-bottom: 0;
+    line-height: 1.1;
+    text-transform: none;
+    color: #a84548;
+    } 
+    
+  
+    @media(max-width:400px){
+      #style1{font-size: 42px;
+      left:20px;top:450px;
+      text-align: center;}
+    } 
+
+    /* @media(max-width:900px){
+      #style1{font-size: 55px;
+        font-weight: 900;
+        top:635px;display:inline;
+        text-align: center;
+        text-transform: none;
+        line-height: 1.1;
+        letter-spacing: 0.5px;
+        margin-bottom: 0;
+        font-family: 'Playfair Display',serif;
+        color: #a84548;
+        padding-top: 0;
+        padding: 20px 0 20px;}
+    }
+   */
+
+   /* VIENNA BAKERY CONTENT */
+
+   .possition{position: relative;}
+
+  #style2{position: absolute;
+          left: 550px;
+          top: 40px;
+          font-size: 40px;
+          font-family: 'Playfair Display',serif;
+          color: #a84548;}
+
+  @media(max-width:400px){
+    #style2{display: inline;
+            left:45px;top:330px;
+            font-size: 46px;
+            line-height: 1.2;
+            color: #a84548;
+            padding-bottom: 0px;
+            font-family: 'Playfair Display',serif;
+            padding-top: 10px; }
+  }
+
+  /* @media(max-width:900px){
+    #style2{display: inline;
+      left:100px;top:300px;
+      font-size: 45px;
+      font-weight: 500;
+      line-height: 1.2;
+      color: #a84548;
+      letter-spacing: 0px;
+      font-family: 'Playfair Display',serif;
+      padding-top: 10px;padding: 25px 0;}
+  } */
+
+   #style3{position: absolute;
+          left: 410px;
+          top:90px;
+          font-size: 20px;
+          color: #001111;
+          font-family: 'Heebo',sans-serif;
+          padding-bottom: 20px;
+          letter-spacing: 2px;}
+
+  @media(max-width:400px){
+    #style3{display: inline;
+      left:1px;top:398px;
+      font-size:18px;
+      letter-spacing: 2px;
+      font-weight: 400;
+      text-align: center;
+      color: #001111;
+      text-transform: uppercase;
+      font-family: 'Heebo',sans-serif;
+      
+  }
+  }
+
+  /* @media(max-width:900px){
+    #style3{display: inline;
+    left:40px;top:380px;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 400;
+    color: #001111;
+    padding-bottom: 20px;
+    font-family: 'Heebo',sans-serif;
+    padding-top: 10px;}
+  } */
+
+
+  #style4{position: absolute;
+          left:820px;
+          top:20px;
+          font-size: 18px;
+          color: #001111;
+          font-family: 'Heebo',sans-serif;
+          padding-top: 10px;
+          }
+  
+  @media(max-width:400px){
+    #style4{display:inline;
+    left:1px;top:460px;
+    text-align: center;
+    font-size: 21px;
+    color: #090909c7;}
+  }
+
+  /* @media(max-width:900px){
+    #style4{display: inline;
+      left:520px;top:310px;
+      font-size: 18px ;
+      font-weight: 400;
+      color: #001111;
+      padding-bottom: 20px;
+      font-family: 'Heebo',sans-serif;
+      padding-top: 10px;
+
+    }
+  } */
+
+ #style5{position: absolute;
+          left:820px;
+          top:65px;
+          font-size: 18px;
+          color: black;
+          font-family: 'Heebo',sans-serif;
+          padding-top: 10px;
+            }
+
+@media(max-width:400px){
+  #style5{display: inline;
+          left:1px;top:530px;
+          font-size: 16px;
+          text-align: center;
+          color: #000000;}
+}
+
+  #space{position: absolute;
+         top:45px;width: 550px;
+         font-size: 16px;
+         font-family: 'Heebo',sans-serif;
+         color: #001111;
+         line-height: 1.9;
+         padding: 0 0 6px;}
+
+@media(max-width:400px){
+  #space{display: inline;
+         text-align: center;
+         left:1px;top:70px;
+         font-size: 16px;
+         width:340px; }
+}
+
+#space1{position: absolute;
+        top:110px;
+        color: #86000a;
+        font-weight: 500;}
+
+@media(max-width:400px){
+  #space1{display: inline;
+          left: 30px;top:200px;
+           font-size: 15px;
+          }
+}
+
+ #space2{position: absolute;
+        top:110px;left:210px;
+      }
+
+@media(max-width:400px){
+  #space2{display:inline;
+          left:200px;top:200px}
+}
+
+/* MAIN IMAGES */
+ 
+.imageseprate{position: relative;
+  display: flex;list-style: none;
+  left:200px;top:280px;
+  width:100px;text-align: center;}
+
+
+
+@media(max-width:400px){
+  .imageseprate {display: block;left:1px;
+                top:800px;text-align: center;
+                width:350px;font-size: 20px;
+                line-height: 1.2em;}
+}
+
+@media(max-width:400px){
+  .sameimg{width:330px}
+}
+
+
+
+/* 2ND BIG IMAGE MAIN DESKTOP */
+           
+.bigimage2{position: relative;
+           top: 370px;}
+
+.rajat{width:100%}
+@media(max-width:400px){
+  .bigimage2{top:860px}
+}
+
+#seprates1{position: absolute;
+           bottom:320px;left:1020px;
+           color:white;
+           font-family: 'Playfair Display',serif; 
+           font-weight: 500;
+           line-height: 1.2;
+           }
+
+@media(max-width:400px){
+  #seprates1{left:220px;top:10px;
+             width:20px;font-weight: 500;
+             line-height: 1.2;}
+}
+
+/* CONTENT ABOUT VIENNA BAKERY */
+ 
+.contentbgcolor{position: relative;
+                max-width: 780px; background-color: red;
+                height: 250px;
+                top:375px;
+                background: #F3F3F3;
+                color: #001111;  border-right: 1px solid rgb(126, 115, 115);} 
+
+@media(max-width:400px){
+  .contentbgcolor{top:860px;width:355px;height: 200px;}
+}
+
+
+#contentdown{position: absolute;
+            left:300px;top:130px;
+            font-size: 40px;
+            font-weight: 500;
+            line-height: 1.2;
+            color: #a84548;
+            font-family: 'Playfair Display',serif;
+            }
+
+@media(max-width:400px){
+  #contentdown{left:0px;top:50px;
+              font-size: 55px;
+              text-align: center;
+              width:350px;
+              }
+}
+
+ /* LEFT CONTENT ABOUT VIENNA BAKERY */
+ 
+.leftcontent{position: relative;
+             left: 780px;top: 125px;
+             background-color: #F3F3F3;
+             height:250px;max-width:800px;
+            }
+
+@media(max-width:400px){
+  .leftcontent{top:860px;width:355px;
+               left:1px;height: 240px;}
+            }
+
+  #contentsleft{position: absolute;
+              left:50px;top:50px;
+              font-size: 18px;
+              font-family: 'Heebo',sans-serif;}
+
+ @media(max-width:400px){
+  #contentsleft{left:0px;top:0px;
+               text-align: center;
+               font-size:18px;
+               padding: 20px;
+               
+               }
+              }   
+
+ /* Latest Blog Posts by Vienna Bakery */
+
+  .blogpost{position: relative;
+           top:200px;
+           font-size: 40px;
+           font-weight: 500;
+           line-height: 1.2;
+           color: #86000A;
+           text-transform: capitalize;
+           letter-spacing: 0px;
+           font-family: 'Playfair Display',serif;
+           max-width:1600px;
+           text-align: center;
+           }
+
+  @media(max-width:400px){
+    #latest1{position: relative;
+             width:300px;
+             top:700px;font-size:39px;
+             left:30px;
+             letter-spacing: 0px;
+             font-family: 'Playfair Display',serif; 
+             line-height: inherit;}
+  }
+
+  #flex1{display:inline;
+         padding: 5px;}
+  
+  @media(max-width:400px){
+    #flex1{display:block;
+           width:300px;}
+  }
+  
+  @media(max-width:400px){
+    #samepic1{width:330px;
+             margin-left:10px;
+             margin-top: 680px;}
+  }
+
+  #flex2{display: inline;}
+
+  @media(max-width:400px){
+    #flex2{display: block;
+          width:300px;
+          }
+  }
+
+  @media(max-width:400px){
+    #samepic2{width: 330px;
+              position: relative;
+              left:15px;top:260px}
+  }
+
+  
+
+  /*  section season content */
+
+  .sectionsection{position: relative;
+                  }
+
+  .sectioncontent{list-style: none;
+                  position: relative;
+                  width: 550px;left: 240px;top:220px;}
+         
+  @media(max-width:400px){
+    .sectioncontent{width:360px;
+      position: relative;
+      left:1px;top:10px;
+      text-align: center;width: 350px;
+      }
+  }    
+  
+  
+  #uppercase{font-size: 18px;
+             text-transform: uppercase;
+             letter-spacing: 1px;
+             color: #001111;
+             padding-bottom: 10px;
+             font-family: 'Heebo',sans-serif;}
+
+  #upper{text-transform: uppercase;padding: 0 0 6px;}
+
+  #clr1{color: #86000A;
+    font-weight: 700;}
+
+  #normels1{font-size: 16px;
+            font-family: 'Heebo',sans-serif;
+            color: #001111;
+            line-height: 1.9;
+            padding: 0 0 6px;
+            margin: 0;
+            font-weight: 400;
+}
+
+  @media(max-width:400px){
+    #normels1{font-size:16px ;line-height: 1.6;
+              left:1px;
+              padding-top: 2px;
+              padding-left: 10px;
+              padding-right: 10px;
+              text-align: center;
+             }
+  }
+
+
+.lft1{position: relative;
+      left:-30px;text-decoration: none;
+      color: #86000A;text-transform: uppercase;
+      font-weight: bold;}
+
+@media(max-width:400px){
+  .lft1{margin-left: 48px;
+        text-align: center;}
+}
+
+
+ .sectioncontent1{position: absolute;
+                 top:220px;left:800px;
+                 list-style: none ;}
+
+@media(max-width:400px){
+  .sectioncontent1{width:350px;
+    position: relative;
+    left:1px;top:280px;
+    text-align: center;
+   }
+}  
+
+#linkpost{position: relative;
+          top:250px;left:700px;
+          background-color: #86000A;
+          color: #FFFFFF;
+          padding: 3px 22px;
+          line-height: 2em;
+          font-weight: 500;
+          border: 1px solid #86000A;
+          outline: none;}
+
+@media(max-width:400px){
+  #linkpost{position: relative;
+            left:100px;top:300px
+            }
+}
+
+/* 3rd BIG IMAGE  MAIN DESKTOP */
+
+  .bigimg3{position: relative;
+         top:310px;width: 100%;}    
+         
+  @media(max-width:400px){
+    .bigimg3{position: relative;
+            top:350px;
+            height: 220px;}
+  }
+
+  
+
+ #contact1{position: absolute;
+          left:520px;margin-top: -130px;
+          font-size: 52px;
+          font-weight: 700;
+          line-height: 1.2;
+          color: #fff;
+          text-transform: capitalize;
+          letter-spacing: 0px;
+          padding-bottom: 0;
+          font-family: 'Playfair Display',serif;
+          padding-top: 10px;}
+
+  @media(max-width:400px){
+    #contact1{position: relative;
+              left:1px;top:480px;
+              text-align: center;
+              max-width: 358px;
+              height: 700px;
+              font-size: 60px;
+              font-weight: 700;
+              line-height: 1.2;
+              color: #fff;
+              text-transform: capitalize;
+              letter-spacing: 0px;
+              padding-bottom: 0;
+              font-family: 'Playfair Display',serif;
+              padding-top: 30px;            
+              background-color: rgb(170, 82, 82);}
+  }
+
+ #contact2{position: absolute;
+          left:510px;margin-top:-60px;
+          font-size: 21px;
+          font-weight: 400;
+          text-transform: none;
+          line-height: 1.5;
+          letter-spacing: 0.5px;
+          margin-bottom: 0;
+          font-family: 'Heebo',sans-serif;
+          color: #fff;
+          padding-bottom: 10px;
+          padding-top: 5px;}
+
+  @media(max-width:400px){
+   #contact2{position: relative;
+             left: 1px;top:80px;
+             max-width: 350px;  
+             text-align: center;
+             font-size: 22px;
+             font-weight: 400;
+             line-height: 1.5;
+             letter-spacing: 0.5px;
+             font-family: 'Heebo',sans-serif;
+             color: #fff;
+             padding-bottom: 10px;
+             padding-top: 0px;}
+  }
+
+ #contactlink{position:relative;
+             left:650px;top:-10px;
+             background-color: #86000A;
+             color: #FFFFFF;
+             padding: 3px 22px;
+             line-height: 2em;
+             font-weight: 500;
+             border: 1px solid #86000A;
+             outline: none;
+             text-align: center;
+             text-transform: uppercase;
+            
+             }
+
+  @media(max-width:400px){
+    #contactlink{position: relative;
+                 left: 35px;top:80px;
+                 background-color: #86000A;
+                 color: #FFFFFF;
+                 padding: 3px 22px;
+                 line-height: 2em;
+                 font-weight: 500;
+                 border: 1px solid #86000A;
+                 outline: none;
+                 -webkit-box-shadow: none;
+                 box-shadow: none;
+                 text-transform: uppercase;
+                 }
+  }
+
+
+ #contact3{position: absolute;
+          left:710px;margin-top:10px;
+          font-size: 22px;
+          font-weight: 400;
+          text-transform: none;
+          line-height: 1.5;
+          letter-spacing: 0.5px;
+          margin-bottom: 0;
+          font-family: 'Heebo',sans-serif;
+          color: #fff;
+          padding-bottom: 10px;
+          padding-top: 5px;}
+
+  @media(max-width:400px){
+     #contact3{position: relative;
+               left: 1px;max-width: 350px;
+               top:90px;
+               text-align: center;
+              }
+
+  }
+
+ #contact4{position: absolute;
+          left:470px;margin-top: 60px;
+          font-size: 21px;
+          font-weight: 400;
+          text-transform: none;
+          line-height: 1.5;
+          letter-spacing: 0.5px;
+          margin-bottom: 0;
+          font-family: 'Heebo',sans-serif;
+          color: #fff;
+          padding-bottom: 10px;
+          padding-top: 5px;}
+
+  @media(max-width:400px){
+    #contact4{position: relative;
+              left:30px;top:30px;
+              text-align: center;
+              max-width: 300px;
+              }
+  }
+
+#contactlink2{position: relative;
+              left: 430px;top:150px;
+              background-color: #86000A;
+              color: #FFFFFF;
+              padding: 3px 22px;
+              line-height: 2em;
+              font-weight: 500;
+              border: 1px solid #86000A;
+              outline: none;
+              box-shadow: none;
+              text-transform: uppercase; }  
+
+@media(max-width:400px){
+  #contactlink2{position: relative;
+                left:100px;top:40px;
+                max-width:350px;
+                
+                }
+}
+
+/*  REVIEWS CONTENT */
+
+ #review{position: relative;
+        top:320px;       
+        text-align: center;
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 1.2;
+        color: #a84548;
+        font-family: 'Playfair Display',serif;
+        padding-top: 10px;}
+
+  @media(max-width:400px){
+    #review{top:150px;
+           max-width: 320px;
+           text-align: center;
+        }
+  }      
+
+#review1{margin-top: 320px;
+        font-size: 18px !important;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: 400;
+        color: #001111;
+        padding-bottom: 20px;
+        font-family: 'Heebo',sans-serif;
+        padding-top: 10px;}
+
+@media(max-width:400px){
+  #review1{position: relative;
+           left:40px;top:-180px;
+           text-align:left;
+           text-align: center;
+           max-width: 250px;
+          }
+}
+
+
+#review2{text-align: center;
+         margin-top:-10px;
+         font-weight: 400;
+         line-height: 1.5;
+         color: #212529;
+         font-size: 16px;
+         font-family: 'Heebo',sans-serif;
+         color: #001111;}
+
+@media(max-width:400px){
+  #review2{position: relative;
+          top:-180px;left:40px;
+          max-width: 250px;
+          padding: 0 0 6px;
+          line-height: 1.9;
+          }
+}
+
+#Melissa-B{position:absolute;
+          left: 760px;
+          font-weight: bold;
+          line-height: inherit; 
+          font-size: 16px;
+          font-family: 'Heebo',sans-serif;
+          color: #001111;}
+
+@media(max-width:400px){
+  #Melissa-B{
+             left:120px;margin-top: -190px;
+             max-width: 300px;
+             text-align: center;} 
+}
+
+#reviewbutton{background-color: #86000A;
+            color: #FFFFFF;
+            padding: 3px 22px;
+            line-height: 2em;
+            font-weight: 500;
+            border: 1px solid #86000A;
+            outline: none;
+            text-transform: uppercase;
+            margin-left: 750px;
+            margin-top: 50px;}
+
+@media(max-width:400px){
+  #reviewbutton{position: absolute;
+                margin-left: 100px;
+                margin-top: -140px;
+                }
+}
+
+/* slide container images */
+
